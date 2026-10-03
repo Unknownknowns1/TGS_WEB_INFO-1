@@ -1,0 +1,3 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Allow the project files in this folder to be committed.
+# The previous blanket ignore rule was preventing the app contents from being pushed.
